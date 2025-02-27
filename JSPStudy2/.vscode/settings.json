@@ -1,0 +1,10 @@
+{
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-21",
+      "path": "C:/Developkits/jdk-21", // JDK 21이 설치된 경로
+      "default": true
+    }
+  ],
+  "java.configuration.configureEclipseJdt": true
+}

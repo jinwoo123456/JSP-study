@@ -1,0 +1,17 @@
+* {
+  margin: 0 auto;
+}
+
+.login-input {
+  border: 2rem;
+  border-bottom: 2rem;
+
+  background-color: azure;
+}
+.login-form {
+  background-color: aqua;
+  margin: 0 auto;
+
+  height: 50rem;
+  width: 50rem;
+}
